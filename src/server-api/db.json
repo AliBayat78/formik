@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "William S Wilbur",
+      "email": "samanbayat69@gmail.com",
+      "phoneNumber": "09182196388",
+      "password": "asd",
+      "passwordConfirm": "asd",
+      "gender": "0",
+      "nationality": "IR",
+      "interests": [
+        "React.js"
+      ],
+      "terms": true,
+      "id": 1649971075293
+    }
+  ]
+}
